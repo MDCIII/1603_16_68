@@ -21,11 +21,11 @@
             "type": "string"
           },
           {
-            "name": "#item+rem+i_spa+is_latn+rdf_p_skos_preflabel_s5000+ix_alt0",
+            "name": "#item+rem+i_spa+is_latn+rdf_p_skos_preflabel_s5000",
             "type": "string"
           },
           {
-            "name": "#meta+rem+i_qcc+is_zxxx+ix_ERROR+country+code+v_iso3166p1a2",
+            "name": "#item+rem+i_qcc+is_zxxx+ix_p297+rdf_p_p_p297_s5000",
             "type": "string"
           },
           {
@@ -82,7 +82,7 @@
             "type": "string"
           },
           {
-            "name": "#item+rem+i_spa+is_latn+rdf_p_skos_preflabel_s5001+ix_alt0",
+            "name": "#item+rem+i_spa+is_latn+rdf_p_skos_preflabel_s5001",
             "type": "string"
           },
           {
@@ -106,7 +106,7 @@
             "type": "string"
           },
           {
-            "name": "#meta+rem+i_qcc+is_zxxx+ix_ERROR+country+code+v_iso3166p1a2",
+            "name": "#item+rem+i_qcc+is_zxxx+ix_p297+rdf_p_p_p297_s5000",
             "type": "string"
           },
           {
@@ -155,7 +155,7 @@
             "type": "string"
           },
           {
-            "name": "#item+rem+i_spa+is_latn+rdf_p_skos_preflabel_s5002+ix_alt0",
+            "name": "#item+rem+i_spa+is_latn+rdf_p_skos_preflabel_s5002",
             "type": "string"
           },
           {
@@ -187,7 +187,7 @@
             "type": "string"
           },
           {
-            "name": "#meta+rem+i_qcc+is_zxxx+ix_ERROR+country+code+v_iso3166p1a2",
+            "name": "#item+rem+i_qcc+is_zxxx+ix_p297+rdf_p_p_p297_s5000",
             "type": "string"
           },
           {
@@ -240,7 +240,7 @@
             "type": "string"
           },
           {
-            "name": "#item+rem+i_spa+is_latn+rdf_p_skos_preflabel_s5003+ix_alt0",
+            "name": "#item+rem+i_spa+is_latn+rdf_p_skos_preflabel_s5003",
             "type": "string"
           },
           {
@@ -280,7 +280,7 @@
             "type": "string"
           },
           {
-            "name": "#meta+rem+i_qcc+is_zxxx+ix_ERROR+country+code+v_iso3166p1a2",
+            "name": "#item+rem+i_qcc+is_zxxx+ix_p297+rdf_p_p_p297_s5000",
             "type": "string"
           },
           {
