@@ -3,6 +3,63 @@
   "profile": "tabular-data-package",
   "resources": [
     {
+      "name": "1603_16_68_1.no1.bcp47.csv",
+      "path": "1603_16_68_1.no1.bcp47.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "qcc-Zxxx-r-sU2200-s1603-snop",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-sU2200-s5000-snop",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-sU2200-s5001-snop",
+            "type": "string"
+          },
+          {
+            "name": "spa-Latn-r-pSKOS-pprefLabel-ps5001",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pWDATA-pq7200235-ps5001-x-wdataq7200235",
+            "type": "string"
+          },
+          {
+            "name": "spa-Latn-r-pSKOS-pprefLabel-ps5000",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp297-ps5000-x-p297",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp577-ps1603",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp813-ps1603",
+            "type": "string"
+          },
+          {
+            "name": "qcc-Zxxx-r-pP-pp2699-ps1603",
+            "type": "string"
+          }
+        ]
+      },
+      "stats": {
+        "fields": 11,
+        "rows": 9
+      }
+    },
+    {
       "name": "1603_16_68_1.no1.tm.hxl.csv",
       "path": "1603_16_68_1.no1.tm.hxl.csv",
       "profile": "tabular-data-resource",
