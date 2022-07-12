@@ -1,9 +1,6 @@
 {
   "@context": [
-    "http://www.w3.org/ns/csvw",
-    {
-      "@language": "la"
-    }
+    "http://www.w3.org/ns/csvw"
   ],
   "tables": [
     {
@@ -43,7 +40,7 @@
             "datatype": "string"
           }
         ],
-        "foreignKeys": []
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
       }
     },
     {
@@ -95,7 +92,7 @@
             "datatype": "string"
           }
         ],
-        "foreignKeys": []
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
       }
     },
     {
@@ -159,7 +156,7 @@
             "datatype": "string"
           }
         ],
-        "foreignKeys": []
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
       }
     },
     {
@@ -235,7 +232,7 @@
             "datatype": "string"
           }
         ],
-        "foreignKeys": []
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
       }
     }
   ]
