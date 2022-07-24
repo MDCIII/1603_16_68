@@ -22,7 +22,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10101" ;
     skos:prefLabel "Sucre"@spa-Latn ;
-    wdata:q7200235 "BO010101" ;
+    wdata:Q7200235 "BO010101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -381,7 +381,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10102" ;
     skos:prefLabel "Yotala"@spa-Latn ;
-    wdata:q7200235 "BO010102" ;
+    wdata:Q7200235 "BO010102" ;
 .
 
 <urn:mdciii:1603:16:68:3:10103>
@@ -391,7 +391,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10103" ;
     skos:prefLabel "Poroma"@spa-Latn ;
-    wdata:q7200235 "BO010103" ;
+    wdata:Q7200235 "BO010103" ;
 .
 
 <urn:mdciii:1603:16:68:3:10201>
@@ -401,7 +401,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10201" ;
     skos:prefLabel "Azurduy"@spa-Latn ;
-    wdata:q7200235 "BO010201" ;
+    wdata:Q7200235 "BO010201" ;
 .
 
 <urn:mdciii:1603:16:68:3:10202>
@@ -411,7 +411,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10202" ;
     skos:prefLabel "Tarvita"@spa-Latn ;
-    wdata:q7200235 "BO010202" ;
+    wdata:Q7200235 "BO010202" ;
 .
 
 <urn:mdciii:1603:16:68:3:10301>
@@ -421,7 +421,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10301" ;
     skos:prefLabel "Zudañez"@spa-Latn ;
-    wdata:q7200235 "BO010301" ;
+    wdata:Q7200235 "BO010301" ;
 .
 
 <urn:mdciii:1603:16:68:3:10302>
@@ -431,7 +431,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10302" ;
     skos:prefLabel "Presto"@spa-Latn ;
-    wdata:q7200235 "BO010302" ;
+    wdata:Q7200235 "BO010302" ;
 .
 
 <urn:mdciii:1603:16:68:3:10303>
@@ -441,7 +441,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10303" ;
     skos:prefLabel "Mojocoya"@spa-Latn ;
-    wdata:q7200235 "BO010303" ;
+    wdata:Q7200235 "BO010303" ;
 .
 
 <urn:mdciii:1603:16:68:3:10304>
@@ -451,7 +451,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10304" ;
     skos:prefLabel "Villa Ricardo Mugia - Icla"@spa-Latn ;
-    wdata:q7200235 "BO010304" ;
+    wdata:Q7200235 "BO010304" ;
 .
 
 <urn:mdciii:1603:16:68:3:10401>
@@ -461,7 +461,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10401" ;
     skos:prefLabel "Padilla"@spa-Latn ;
-    wdata:q7200235 "BO010401" ;
+    wdata:Q7200235 "BO010401" ;
 .
 
 <urn:mdciii:1603:16:68:3:10402>
@@ -471,7 +471,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10402" ;
     skos:prefLabel "Tomina"@spa-Latn ;
-    wdata:q7200235 "BO010402" ;
+    wdata:Q7200235 "BO010402" ;
 .
 
 <urn:mdciii:1603:16:68:3:10403>
@@ -481,7 +481,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10403" ;
     skos:prefLabel "Sopachui"@spa-Latn ;
-    wdata:q7200235 "BO010403" ;
+    wdata:Q7200235 "BO010403" ;
 .
 
 <urn:mdciii:1603:16:68:3:10404>
@@ -491,7 +491,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10404" ;
     skos:prefLabel "Alcalá"@spa-Latn ;
-    wdata:q7200235 "BO010404" ;
+    wdata:Q7200235 "BO010404" ;
 .
 
 <urn:mdciii:1603:16:68:3:10405>
@@ -501,7 +501,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10405" ;
     skos:prefLabel "El Villar"@spa-Latn ;
-    wdata:q7200235 "BO010405" ;
+    wdata:Q7200235 "BO010405" ;
 .
 
 <urn:mdciii:1603:16:68:3:10501>
@@ -511,7 +511,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10501" ;
     skos:prefLabel "Monteagudo"@spa-Latn ;
-    wdata:q7200235 "BO010501" ;
+    wdata:Q7200235 "BO010501" ;
 .
 
 <urn:mdciii:1603:16:68:3:10502>
@@ -521,7 +521,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10502" ;
     skos:prefLabel "Huacareta"@spa-Latn ;
-    wdata:q7200235 "BO010502" ;
+    wdata:Q7200235 "BO010502" ;
 .
 
 <urn:mdciii:1603:16:68:3:10601>
@@ -531,7 +531,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10601" ;
     skos:prefLabel "Tarabuco"@spa-Latn ;
-    wdata:q7200235 "BO010601" ;
+    wdata:Q7200235 "BO010601" ;
 .
 
 <urn:mdciii:1603:16:68:3:10602>
@@ -541,7 +541,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10602" ;
     skos:prefLabel "Yamparáez"@spa-Latn ;
-    wdata:q7200235 "BO010602" ;
+    wdata:Q7200235 "BO010602" ;
 .
 
 <urn:mdciii:1603:16:68:3:10701>
@@ -551,7 +551,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10701" ;
     skos:prefLabel "Camargo"@spa-Latn ;
-    wdata:q7200235 "BO010701" ;
+    wdata:Q7200235 "BO010701" ;
 .
 
 <urn:mdciii:1603:16:68:3:10702>
@@ -561,7 +561,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10702" ;
     skos:prefLabel "San Lucas"@spa-Latn ;
-    wdata:q7200235 "BO010702" ;
+    wdata:Q7200235 "BO010702" ;
 .
 
 <urn:mdciii:1603:16:68:3:10703>
@@ -571,7 +571,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10703" ;
     skos:prefLabel "Incahuasi"@spa-Latn ;
-    wdata:q7200235 "BO010703" ;
+    wdata:Q7200235 "BO010703" ;
 .
 
 <urn:mdciii:1603:16:68:3:10704>
@@ -581,7 +581,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10704" ;
     skos:prefLabel "Villa Charcas"@spa-Latn ;
-    wdata:q7200235 "BO010704" ;
+    wdata:Q7200235 "BO010704" ;
 .
 
 <urn:mdciii:1603:16:68:3:10801>
@@ -591,7 +591,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10801" ;
     skos:prefLabel "Villa Serrano"@spa-Latn ;
-    wdata:q7200235 "BO010801" ;
+    wdata:Q7200235 "BO010801" ;
 .
 
 <urn:mdciii:1603:16:68:3:10901>
@@ -601,7 +601,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10901" ;
     skos:prefLabel "Villa Abecia"@spa-Latn ;
-    wdata:q7200235 "BO010901" ;
+    wdata:Q7200235 "BO010901" ;
 .
 
 <urn:mdciii:1603:16:68:3:10902>
@@ -611,7 +611,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10902" ;
     skos:prefLabel "Culpina"@spa-Latn ;
-    wdata:q7200235 "BO010902" ;
+    wdata:Q7200235 "BO010902" ;
 .
 
 <urn:mdciii:1603:16:68:3:10903>
@@ -621,7 +621,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:10903" ;
     skos:prefLabel "Las Carreras"@spa-Latn ;
-    wdata:q7200235 "BO010903" ;
+    wdata:Q7200235 "BO010903" ;
 .
 
 <urn:mdciii:1603:16:68:3:11001>
@@ -631,7 +631,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:11001" ;
     skos:prefLabel "Villa Vaca Guzmán"@spa-Latn ;
-    wdata:q7200235 "BO011001" ;
+    wdata:Q7200235 "BO011001" ;
 .
 
 <urn:mdciii:1603:16:68:3:11002>
@@ -641,7 +641,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:11002" ;
     skos:prefLabel "Huacaya"@spa-Latn ;
-    wdata:q7200235 "BO011002" ;
+    wdata:Q7200235 "BO011002" ;
 .
 
 <urn:mdciii:1603:16:68:3:11003>
@@ -651,7 +651,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:11003" ;
     skos:prefLabel "Macharetí"@spa-Latn ;
-    wdata:q7200235 "BO011003" ;
+    wdata:Q7200235 "BO011003" ;
 .
 
 <urn:mdciii:1603:16:68:3:20101>
@@ -661,7 +661,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20101" ;
     skos:prefLabel "Nuestra Señora de La Paz"@spa-Latn ;
-    wdata:q7200235 "BO020101" ;
+    wdata:Q7200235 "BO020101" ;
 .
 
 <urn:mdciii:1603:16:68:3:20102>
@@ -671,7 +671,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20102" ;
     skos:prefLabel "Palca"@spa-Latn ;
-    wdata:q7200235 "BO020102" ;
+    wdata:Q7200235 "BO020102" ;
 .
 
 <urn:mdciii:1603:16:68:3:20103>
@@ -681,7 +681,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20103" ;
     skos:prefLabel "Mecapaca"@spa-Latn ;
-    wdata:q7200235 "BO020103" ;
+    wdata:Q7200235 "BO020103" ;
 .
 
 <urn:mdciii:1603:16:68:3:20104>
@@ -691,7 +691,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20104" ;
     skos:prefLabel "Achocalla"@spa-Latn ;
-    wdata:q7200235 "BO020104" ;
+    wdata:Q7200235 "BO020104" ;
 .
 
 <urn:mdciii:1603:16:68:3:20105>
@@ -701,7 +701,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20105" ;
     skos:prefLabel "El Alto"@spa-Latn ;
-    wdata:q7200235 "BO020105" ;
+    wdata:Q7200235 "BO020105" ;
 .
 
 <urn:mdciii:1603:16:68:3:20201>
@@ -711,7 +711,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20201" ;
     skos:prefLabel "Achacachi"@spa-Latn ;
-    wdata:q7200235 "BO020201" ;
+    wdata:Q7200235 "BO020201" ;
 .
 
 <urn:mdciii:1603:16:68:3:20202>
@@ -721,7 +721,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20202" ;
     skos:prefLabel "Villa Ancoraimes"@spa-Latn ;
-    wdata:q7200235 "BO020202" ;
+    wdata:Q7200235 "BO020202" ;
 .
 
 <urn:mdciii:1603:16:68:3:20203>
@@ -731,7 +731,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20203" ;
     skos:prefLabel "Huarina"@spa-Latn ;
-    wdata:q7200235 "BO020203" ;
+    wdata:Q7200235 "BO020203" ;
 .
 
 <urn:mdciii:1603:16:68:3:20204>
@@ -741,7 +741,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20204" ;
     skos:prefLabel "Santiago de Huata"@spa-Latn ;
-    wdata:q7200235 "BO020204" ;
+    wdata:Q7200235 "BO020204" ;
 .
 
 <urn:mdciii:1603:16:68:3:20205>
@@ -751,7 +751,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20205" ;
     skos:prefLabel "Huatajata"@spa-Latn ;
-    wdata:q7200235 "BO020205" ;
+    wdata:Q7200235 "BO020205" ;
 .
 
 <urn:mdciii:1603:16:68:3:20206>
@@ -761,7 +761,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20206" ;
     skos:prefLabel "Chua Cocani"@spa-Latn ;
-    wdata:q7200235 "BO020206" ;
+    wdata:Q7200235 "BO020206" ;
 .
 
 <urn:mdciii:1603:16:68:3:20301>
@@ -771,7 +771,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20301" ;
     skos:prefLabel "Corocoro"@spa-Latn ;
-    wdata:q7200235 "BO020301" ;
+    wdata:Q7200235 "BO020301" ;
 .
 
 <urn:mdciii:1603:16:68:3:20302>
@@ -781,7 +781,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20302" ;
     skos:prefLabel "Caquiaviri"@spa-Latn ;
-    wdata:q7200235 "BO020302" ;
+    wdata:Q7200235 "BO020302" ;
 .
 
 <urn:mdciii:1603:16:68:3:20303>
@@ -791,7 +791,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20303" ;
     skos:prefLabel "Calacoto"@spa-Latn ;
-    wdata:q7200235 "BO020303" ;
+    wdata:Q7200235 "BO020303" ;
 .
 
 <urn:mdciii:1603:16:68:3:20304>
@@ -801,7 +801,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20304" ;
     skos:prefLabel "Comanche"@spa-Latn ;
-    wdata:q7200235 "BO020304" ;
+    wdata:Q7200235 "BO020304" ;
 .
 
 <urn:mdciii:1603:16:68:3:20305>
@@ -811,7 +811,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20305" ;
     skos:prefLabel "Charaña"@spa-Latn ;
-    wdata:q7200235 "BO020305" ;
+    wdata:Q7200235 "BO020305" ;
 .
 
 <urn:mdciii:1603:16:68:3:20306>
@@ -821,7 +821,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20306" ;
     skos:prefLabel "Waldo Ballivian"@spa-Latn ;
-    wdata:q7200235 "BO020306" ;
+    wdata:Q7200235 "BO020306" ;
 .
 
 <urn:mdciii:1603:16:68:3:20307>
@@ -831,7 +831,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20307" ;
     skos:prefLabel "Nazacara de Pacajes"@spa-Latn ;
-    wdata:q7200235 "BO020307" ;
+    wdata:Q7200235 "BO020307" ;
 .
 
 <urn:mdciii:1603:16:68:3:20308>
@@ -841,7 +841,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20308" ;
     skos:prefLabel "Santiago de Callapa"@spa-Latn ;
-    wdata:q7200235 "BO020308" ;
+    wdata:Q7200235 "BO020308" ;
 .
 
 <urn:mdciii:1603:16:68:3:20401>
@@ -851,7 +851,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20401" ;
     skos:prefLabel "Puerto Acosta"@spa-Latn ;
-    wdata:q7200235 "BO020401" ;
+    wdata:Q7200235 "BO020401" ;
 .
 
 <urn:mdciii:1603:16:68:3:20402>
@@ -861,7 +861,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20402" ;
     skos:prefLabel "Mocomoco"@spa-Latn ;
-    wdata:q7200235 "BO020402" ;
+    wdata:Q7200235 "BO020402" ;
 .
 
 <urn:mdciii:1603:16:68:3:20403>
@@ -871,7 +871,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20403" ;
     skos:prefLabel "Puerto Mayor de Carabuco"@spa-Latn ;
-    wdata:q7200235 "BO020403" ;
+    wdata:Q7200235 "BO020403" ;
 .
 
 <urn:mdciii:1603:16:68:3:20404>
@@ -881,7 +881,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20404" ;
     skos:prefLabel "Humanata"@spa-Latn ;
-    wdata:q7200235 "BO020404" ;
+    wdata:Q7200235 "BO020404" ;
 .
 
 <urn:mdciii:1603:16:68:3:20405>
@@ -891,7 +891,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20405" ;
     skos:prefLabel "Escoma"@spa-Latn ;
-    wdata:q7200235 "BO020405" ;
+    wdata:Q7200235 "BO020405" ;
 .
 
 <urn:mdciii:1603:16:68:3:20501>
@@ -901,7 +901,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20501" ;
     skos:prefLabel "Chuma"@spa-Latn ;
-    wdata:q7200235 "BO020501" ;
+    wdata:Q7200235 "BO020501" ;
 .
 
 <urn:mdciii:1603:16:68:3:20502>
@@ -911,7 +911,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20502" ;
     skos:prefLabel "Ayata"@spa-Latn ;
-    wdata:q7200235 "BO020502" ;
+    wdata:Q7200235 "BO020502" ;
 .
 
 <urn:mdciii:1603:16:68:3:20503>
@@ -921,7 +921,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20503" ;
     skos:prefLabel "Aucapata"@spa-Latn ;
-    wdata:q7200235 "BO020503" ;
+    wdata:Q7200235 "BO020503" ;
 .
 
 <urn:mdciii:1603:16:68:3:20601>
@@ -931,7 +931,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20601" ;
     skos:prefLabel "Sorata"@spa-Latn ;
-    wdata:q7200235 "BO020601" ;
+    wdata:Q7200235 "BO020601" ;
 .
 
 <urn:mdciii:1603:16:68:3:20602>
@@ -941,7 +941,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20602" ;
     skos:prefLabel "Guanay"@spa-Latn ;
-    wdata:q7200235 "BO020602" ;
+    wdata:Q7200235 "BO020602" ;
 .
 
 <urn:mdciii:1603:16:68:3:20603>
@@ -951,7 +951,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20603" ;
     skos:prefLabel "Tacacoma"@spa-Latn ;
-    wdata:q7200235 "BO020603" ;
+    wdata:Q7200235 "BO020603" ;
 .
 
 <urn:mdciii:1603:16:68:3:20604>
@@ -961,7 +961,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20604" ;
     skos:prefLabel "Quiabaya"@spa-Latn ;
-    wdata:q7200235 "BO020604" ;
+    wdata:Q7200235 "BO020604" ;
 .
 
 <urn:mdciii:1603:16:68:3:20605>
@@ -971,7 +971,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20605" ;
     skos:prefLabel "Combaya"@spa-Latn ;
-    wdata:q7200235 "BO020605" ;
+    wdata:Q7200235 "BO020605" ;
 .
 
 <urn:mdciii:1603:16:68:3:20606>
@@ -981,7 +981,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20606" ;
     skos:prefLabel "Tipuani"@spa-Latn ;
-    wdata:q7200235 "BO020606" ;
+    wdata:Q7200235 "BO020606" ;
 .
 
 <urn:mdciii:1603:16:68:3:20607>
@@ -991,7 +991,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20607" ;
     skos:prefLabel "Mapiri"@spa-Latn ;
-    wdata:q7200235 "BO020607" ;
+    wdata:Q7200235 "BO020607" ;
 .
 
 <urn:mdciii:1603:16:68:3:20608>
@@ -1001,7 +1001,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20608" ;
     skos:prefLabel "Teoponte"@spa-Latn ;
-    wdata:q7200235 "BO020608" ;
+    wdata:Q7200235 "BO020608" ;
 .
 
 <urn:mdciii:1603:16:68:3:20701>
@@ -1011,7 +1011,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20701" ;
     skos:prefLabel "Apolo"@spa-Latn ;
-    wdata:q7200235 "BO020701" ;
+    wdata:Q7200235 "BO020701" ;
 .
 
 <urn:mdciii:1603:16:68:3:20702>
@@ -1021,7 +1021,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20702" ;
     skos:prefLabel "Pelechuco"@spa-Latn ;
-    wdata:q7200235 "BO020702" ;
+    wdata:Q7200235 "BO020702" ;
 .
 
 <urn:mdciii:1603:16:68:3:20801>
@@ -1031,7 +1031,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20801" ;
     skos:prefLabel "Viacha"@spa-Latn ;
-    wdata:q7200235 "BO020801" ;
+    wdata:Q7200235 "BO020801" ;
 .
 
 <urn:mdciii:1603:16:68:3:20802>
@@ -1041,7 +1041,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20802" ;
     skos:prefLabel "Puerto Mayor de Guaqui"@spa-Latn ;
-    wdata:q7200235 "BO020802" ;
+    wdata:Q7200235 "BO020802" ;
 .
 
 <urn:mdciii:1603:16:68:3:20803>
@@ -1051,7 +1051,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20803" ;
     skos:prefLabel "Tiahuanacu"@spa-Latn ;
-    wdata:q7200235 "BO020803" ;
+    wdata:Q7200235 "BO020803" ;
 .
 
 <urn:mdciii:1603:16:68:3:20804>
@@ -1061,7 +1061,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20804" ;
     skos:prefLabel "Desaguadero"@spa-Latn ;
-    wdata:q7200235 "BO020804" ;
+    wdata:Q7200235 "BO020804" ;
 .
 
 <urn:mdciii:1603:16:68:3:20805>
@@ -1071,7 +1071,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20805" ;
     skos:prefLabel "La (Marka) San Andrés de Machaca"@spa-Latn ;
-    wdata:q7200235 "BO020805" ;
+    wdata:Q7200235 "BO020805" ;
 .
 
 <urn:mdciii:1603:16:68:3:20806>
@@ -1081,7 +1081,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20806" ;
     skos:prefLabel "Jesús de Machaka"@spa-Latn ;
-    wdata:q7200235 "BO020806" ;
+    wdata:Q7200235 "BO020806" ;
 .
 
 <urn:mdciii:1603:16:68:3:20807>
@@ -1091,7 +1091,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20807" ;
     skos:prefLabel "Taraco"@spa-Latn ;
-    wdata:q7200235 "BO020807" ;
+    wdata:Q7200235 "BO020807" ;
 .
 
 <urn:mdciii:1603:16:68:3:20901>
@@ -1101,7 +1101,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20901" ;
     skos:prefLabel "Luribay"@spa-Latn ;
-    wdata:q7200235 "BO020901" ;
+    wdata:Q7200235 "BO020901" ;
 .
 
 <urn:mdciii:1603:16:68:3:20902>
@@ -1111,7 +1111,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20902" ;
     skos:prefLabel "Sapahaqui"@spa-Latn ;
-    wdata:q7200235 "BO020902" ;
+    wdata:Q7200235 "BO020902" ;
 .
 
 <urn:mdciii:1603:16:68:3:20903>
@@ -1121,7 +1121,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20903" ;
     skos:prefLabel "Yaco"@spa-Latn ;
-    wdata:q7200235 "BO020903" ;
+    wdata:Q7200235 "BO020903" ;
 .
 
 <urn:mdciii:1603:16:68:3:20904>
@@ -1131,7 +1131,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20904" ;
     skos:prefLabel "Malla"@spa-Latn ;
-    wdata:q7200235 "BO020904" ;
+    wdata:Q7200235 "BO020904" ;
 .
 
 <urn:mdciii:1603:16:68:3:20905>
@@ -1141,7 +1141,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:20905" ;
     skos:prefLabel "Cairoma"@spa-Latn ;
-    wdata:q7200235 "BO020905" ;
+    wdata:Q7200235 "BO020905" ;
 .
 
 <urn:mdciii:1603:16:68:3:21001>
@@ -1151,7 +1151,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21001" ;
     skos:prefLabel "Inquisivi"@spa-Latn ;
-    wdata:q7200235 "BO021001" ;
+    wdata:Q7200235 "BO021001" ;
 .
 
 <urn:mdciii:1603:16:68:3:21002>
@@ -1161,7 +1161,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21002" ;
     skos:prefLabel "Quime"@spa-Latn ;
-    wdata:q7200235 "BO021002" ;
+    wdata:Q7200235 "BO021002" ;
 .
 
 <urn:mdciii:1603:16:68:3:21003>
@@ -1171,7 +1171,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21003" ;
     skos:prefLabel "Cajuata"@spa-Latn ;
-    wdata:q7200235 "BO021003" ;
+    wdata:Q7200235 "BO021003" ;
 .
 
 <urn:mdciii:1603:16:68:3:21004>
@@ -1181,7 +1181,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21004" ;
     skos:prefLabel "Colquiri"@spa-Latn ;
-    wdata:q7200235 "BO021004" ;
+    wdata:Q7200235 "BO021004" ;
 .
 
 <urn:mdciii:1603:16:68:3:21005>
@@ -1191,7 +1191,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21005" ;
     skos:prefLabel "Ichoca"@spa-Latn ;
-    wdata:q7200235 "BO021005" ;
+    wdata:Q7200235 "BO021005" ;
 .
 
 <urn:mdciii:1603:16:68:3:21006>
@@ -1201,7 +1201,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21006" ;
     skos:prefLabel "Villa Libertad Licoma"@spa-Latn ;
-    wdata:q7200235 "BO021006" ;
+    wdata:Q7200235 "BO021006" ;
 .
 
 <urn:mdciii:1603:16:68:3:21101>
@@ -1211,7 +1211,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21101" ;
     skos:prefLabel "Chulumani"@spa-Latn ;
-    wdata:q7200235 "BO021101" ;
+    wdata:Q7200235 "BO021101" ;
 .
 
 <urn:mdciii:1603:16:68:3:21102>
@@ -1221,7 +1221,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21102" ;
     skos:prefLabel "Irupana"@spa-Latn ;
-    wdata:q7200235 "BO021102" ;
+    wdata:Q7200235 "BO021102" ;
 .
 
 <urn:mdciii:1603:16:68:3:21103>
@@ -1231,7 +1231,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21103" ;
     skos:prefLabel "Yanacachi"@spa-Latn ;
-    wdata:q7200235 "BO021103" ;
+    wdata:Q7200235 "BO021103" ;
 .
 
 <urn:mdciii:1603:16:68:3:21104>
@@ -1241,7 +1241,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21104" ;
     skos:prefLabel "Palos Blancos"@spa-Latn ;
-    wdata:q7200235 "BO021104" ;
+    wdata:Q7200235 "BO021104" ;
 .
 
 <urn:mdciii:1603:16:68:3:21105>
@@ -1251,7 +1251,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21105" ;
     skos:prefLabel "La Asunta"@spa-Latn ;
-    wdata:q7200235 "BO021105" ;
+    wdata:Q7200235 "BO021105" ;
 .
 
 <urn:mdciii:1603:16:68:3:21201>
@@ -1261,7 +1261,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21201" ;
     skos:prefLabel "Pucarani"@spa-Latn ;
-    wdata:q7200235 "BO021201" ;
+    wdata:Q7200235 "BO021201" ;
 .
 
 <urn:mdciii:1603:16:68:3:21202>
@@ -1271,7 +1271,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21202" ;
     skos:prefLabel "Laja"@spa-Latn ;
-    wdata:q7200235 "BO021202" ;
+    wdata:Q7200235 "BO021202" ;
 .
 
 <urn:mdciii:1603:16:68:3:21203>
@@ -1281,7 +1281,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21203" ;
     skos:prefLabel "Batallas"@spa-Latn ;
-    wdata:q7200235 "BO021203" ;
+    wdata:Q7200235 "BO021203" ;
 .
 
 <urn:mdciii:1603:16:68:3:21204>
@@ -1291,7 +1291,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21204" ;
     skos:prefLabel "Puerto Pérez"@spa-Latn ;
-    wdata:q7200235 "BO021204" ;
+    wdata:Q7200235 "BO021204" ;
 .
 
 <urn:mdciii:1603:16:68:3:21301>
@@ -1301,7 +1301,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21301" ;
     skos:prefLabel "Sicasica"@spa-Latn ;
-    wdata:q7200235 "BO021301" ;
+    wdata:Q7200235 "BO021301" ;
 .
 
 <urn:mdciii:1603:16:68:3:21302>
@@ -1311,7 +1311,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21302" ;
     skos:prefLabel "Umala"@spa-Latn ;
-    wdata:q7200235 "BO021302" ;
+    wdata:Q7200235 "BO021302" ;
 .
 
 <urn:mdciii:1603:16:68:3:21303>
@@ -1321,7 +1321,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21303" ;
     skos:prefLabel "Ayo Ayo"@spa-Latn ;
-    wdata:q7200235 "BO021303" ;
+    wdata:Q7200235 "BO021303" ;
 .
 
 <urn:mdciii:1603:16:68:3:21304>
@@ -1331,7 +1331,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21304" ;
     skos:prefLabel "Calamarca"@spa-Latn ;
-    wdata:q7200235 "BO021304" ;
+    wdata:Q7200235 "BO021304" ;
 .
 
 <urn:mdciii:1603:16:68:3:21305>
@@ -1341,7 +1341,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21305" ;
     skos:prefLabel "Patacamaya"@spa-Latn ;
-    wdata:q7200235 "BO021305" ;
+    wdata:Q7200235 "BO021305" ;
 .
 
 <urn:mdciii:1603:16:68:3:21306>
@@ -1351,7 +1351,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21306" ;
     skos:prefLabel "Colquencha"@spa-Latn ;
-    wdata:q7200235 "BO021306" ;
+    wdata:Q7200235 "BO021306" ;
 .
 
 <urn:mdciii:1603:16:68:3:21307>
@@ -1361,7 +1361,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21307" ;
     skos:prefLabel "Collana"@spa-Latn ;
-    wdata:q7200235 "BO021307" ;
+    wdata:Q7200235 "BO021307" ;
 .
 
 <urn:mdciii:1603:16:68:3:21401>
@@ -1371,7 +1371,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21401" ;
     skos:prefLabel "Coroico"@spa-Latn ;
-    wdata:q7200235 "BO021401" ;
+    wdata:Q7200235 "BO021401" ;
 .
 
 <urn:mdciii:1603:16:68:3:21402>
@@ -1381,7 +1381,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21402" ;
     skos:prefLabel "Coripata"@spa-Latn ;
-    wdata:q7200235 "BO021402" ;
+    wdata:Q7200235 "BO021402" ;
 .
 
 <urn:mdciii:1603:16:68:3:21501>
@@ -1391,7 +1391,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21501" ;
     skos:prefLabel "Ixiamas"@spa-Latn ;
-    wdata:q7200235 "BO021501" ;
+    wdata:Q7200235 "BO021501" ;
 .
 
 <urn:mdciii:1603:16:68:3:21502>
@@ -1401,7 +1401,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21502" ;
     skos:prefLabel "San Buenaventura"@spa-Latn ;
-    wdata:q7200235 "BO021502" ;
+    wdata:Q7200235 "BO021502" ;
 .
 
 <urn:mdciii:1603:16:68:3:21601>
@@ -1411,7 +1411,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21601" ;
     skos:prefLabel "Charazani"@spa-Latn ;
-    wdata:q7200235 "BO021601" ;
+    wdata:Q7200235 "BO021601" ;
 .
 
 <urn:mdciii:1603:16:68:3:21602>
@@ -1421,7 +1421,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21602" ;
     skos:prefLabel "Curva"@spa-Latn ;
-    wdata:q7200235 "BO021602" ;
+    wdata:Q7200235 "BO021602" ;
 .
 
 <urn:mdciii:1603:16:68:3:21701>
@@ -1431,7 +1431,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21701" ;
     skos:prefLabel "Copacabana"@spa-Latn ;
-    wdata:q7200235 "BO021701" ;
+    wdata:Q7200235 "BO021701" ;
 .
 
 <urn:mdciii:1603:16:68:3:21702>
@@ -1441,7 +1441,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21702" ;
     skos:prefLabel "San Pedro de Tiquina"@spa-Latn ;
-    wdata:q7200235 "BO021702" ;
+    wdata:Q7200235 "BO021702" ;
 .
 
 <urn:mdciii:1603:16:68:3:21703>
@@ -1451,7 +1451,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21703" ;
     skos:prefLabel "Tito Yupanqui"@spa-Latn ;
-    wdata:q7200235 "BO021703" ;
+    wdata:Q7200235 "BO021703" ;
 .
 
 <urn:mdciii:1603:16:68:3:21801>
@@ -1461,7 +1461,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21801" ;
     skos:prefLabel "San Pedro de Curahuara"@spa-Latn ;
-    wdata:q7200235 "BO021801" ;
+    wdata:Q7200235 "BO021801" ;
 .
 
 <urn:mdciii:1603:16:68:3:21802>
@@ -1471,7 +1471,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21802" ;
     skos:prefLabel "Papel Pampa"@spa-Latn ;
-    wdata:q7200235 "BO021802" ;
+    wdata:Q7200235 "BO021802" ;
 .
 
 <urn:mdciii:1603:16:68:3:21803>
@@ -1481,7 +1481,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21803" ;
     skos:prefLabel "Chacarilla"@spa-Latn ;
-    wdata:q7200235 "BO021803" ;
+    wdata:Q7200235 "BO021803" ;
 .
 
 <urn:mdciii:1603:16:68:3:21901>
@@ -1491,7 +1491,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21901" ;
     skos:prefLabel "Santiago de Machaca"@spa-Latn ;
-    wdata:q7200235 "BO021901" ;
+    wdata:Q7200235 "BO021901" ;
 .
 
 <urn:mdciii:1603:16:68:3:21902>
@@ -1501,7 +1501,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:21902" ;
     skos:prefLabel "Catacora"@spa-Latn ;
-    wdata:q7200235 "BO021902" ;
+    wdata:Q7200235 "BO021902" ;
 .
 
 <urn:mdciii:1603:16:68:3:22001>
@@ -1511,7 +1511,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:22001" ;
     skos:prefLabel "Caranavi"@spa-Latn ;
-    wdata:q7200235 "BO022001" ;
+    wdata:Q7200235 "BO022001" ;
 .
 
 <urn:mdciii:1603:16:68:3:22002>
@@ -1521,7 +1521,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:22002" ;
     skos:prefLabel "Alto Beni"@spa-Latn ;
-    wdata:q7200235 "BO022002" ;
+    wdata:Q7200235 "BO022002" ;
 .
 
 <urn:mdciii:1603:16:68:3:30101>
@@ -1531,7 +1531,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30101" ;
     skos:prefLabel "Cochabamba"@spa-Latn ;
-    wdata:q7200235 "BO030101" ;
+    wdata:Q7200235 "BO030101" ;
 .
 
 <urn:mdciii:1603:16:68:3:30201>
@@ -1541,7 +1541,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30201" ;
     skos:prefLabel "Aiquile"@spa-Latn ;
-    wdata:q7200235 "BO030201" ;
+    wdata:Q7200235 "BO030201" ;
 .
 
 <urn:mdciii:1603:16:68:3:30202>
@@ -1551,7 +1551,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30202" ;
     skos:prefLabel "Pasorapa"@spa-Latn ;
-    wdata:q7200235 "BO030202" ;
+    wdata:Q7200235 "BO030202" ;
 .
 
 <urn:mdciii:1603:16:68:3:30203>
@@ -1561,7 +1561,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30203" ;
     skos:prefLabel "Omereque"@spa-Latn ;
-    wdata:q7200235 "BO030203" ;
+    wdata:Q7200235 "BO030203" ;
 .
 
 <urn:mdciii:1603:16:68:3:30301>
@@ -1571,7 +1571,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30301" ;
     skos:prefLabel "Ayopaya"@spa-Latn ;
-    wdata:q7200235 "BO030301" ;
+    wdata:Q7200235 "BO030301" ;
 .
 
 <urn:mdciii:1603:16:68:3:30302>
@@ -1581,7 +1581,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30302" ;
     skos:prefLabel "Morochata"@spa-Latn ;
-    wdata:q7200235 "BO030302" ;
+    wdata:Q7200235 "BO030302" ;
 .
 
 <urn:mdciii:1603:16:68:3:30303>
@@ -1591,7 +1591,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30303" ;
     skos:prefLabel "Cocapata"@spa-Latn ;
-    wdata:q7200235 "BO030303" ;
+    wdata:Q7200235 "BO030303" ;
 .
 
 <urn:mdciii:1603:16:68:3:30401>
@@ -1601,7 +1601,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30401" ;
     skos:prefLabel "Tarata"@spa-Latn ;
-    wdata:q7200235 "BO030401" ;
+    wdata:Q7200235 "BO030401" ;
 .
 
 <urn:mdciii:1603:16:68:3:30402>
@@ -1611,7 +1611,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30402" ;
     skos:prefLabel "Anzaldo"@spa-Latn ;
-    wdata:q7200235 "BO030402" ;
+    wdata:Q7200235 "BO030402" ;
 .
 
 <urn:mdciii:1603:16:68:3:30403>
@@ -1621,7 +1621,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30403" ;
     skos:prefLabel "Arbieto"@spa-Latn ;
-    wdata:q7200235 "BO030403" ;
+    wdata:Q7200235 "BO030403" ;
 .
 
 <urn:mdciii:1603:16:68:3:30404>
@@ -1631,7 +1631,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30404" ;
     skos:prefLabel "Sacabamba"@spa-Latn ;
-    wdata:q7200235 "BO030404" ;
+    wdata:Q7200235 "BO030404" ;
 .
 
 <urn:mdciii:1603:16:68:3:30501>
@@ -1641,7 +1641,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30501" ;
     skos:prefLabel "Arani"@spa-Latn ;
-    wdata:q7200235 "BO030501" ;
+    wdata:Q7200235 "BO030501" ;
 .
 
 <urn:mdciii:1603:16:68:3:30502>
@@ -1651,7 +1651,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30502" ;
     skos:prefLabel "Vacas"@spa-Latn ;
-    wdata:q7200235 "BO030502" ;
+    wdata:Q7200235 "BO030502" ;
 .
 
 <urn:mdciii:1603:16:68:3:30601>
@@ -1661,7 +1661,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30601" ;
     skos:prefLabel "Arque"@spa-Latn ;
-    wdata:q7200235 "BO030601" ;
+    wdata:Q7200235 "BO030601" ;
 .
 
 <urn:mdciii:1603:16:68:3:30602>
@@ -1671,7 +1671,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30602" ;
     skos:prefLabel "Tacopaya"@spa-Latn ;
-    wdata:q7200235 "BO030602" ;
+    wdata:Q7200235 "BO030602" ;
 .
 
 <urn:mdciii:1603:16:68:3:30701>
@@ -1681,7 +1681,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30701" ;
     skos:prefLabel "Capinota"@spa-Latn ;
-    wdata:q7200235 "BO030701" ;
+    wdata:Q7200235 "BO030701" ;
 .
 
 <urn:mdciii:1603:16:68:3:30702>
@@ -1691,7 +1691,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30702" ;
     skos:prefLabel "Santivañez"@spa-Latn ;
-    wdata:q7200235 "BO030702" ;
+    wdata:Q7200235 "BO030702" ;
 .
 
 <urn:mdciii:1603:16:68:3:30703>
@@ -1701,7 +1701,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30703" ;
     skos:prefLabel "Sicaya"@spa-Latn ;
-    wdata:q7200235 "BO030703" ;
+    wdata:Q7200235 "BO030703" ;
 .
 
 <urn:mdciii:1603:16:68:3:30801>
@@ -1711,7 +1711,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30801" ;
     skos:prefLabel "Cliza"@spa-Latn ;
-    wdata:q7200235 "BO030801" ;
+    wdata:Q7200235 "BO030801" ;
 .
 
 <urn:mdciii:1603:16:68:3:30802>
@@ -1721,7 +1721,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30802" ;
     skos:prefLabel "Toco"@spa-Latn ;
-    wdata:q7200235 "BO030802" ;
+    wdata:Q7200235 "BO030802" ;
 .
 
 <urn:mdciii:1603:16:68:3:30803>
@@ -1731,7 +1731,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30803" ;
     skos:prefLabel "Tolata"@spa-Latn ;
-    wdata:q7200235 "BO030803" ;
+    wdata:Q7200235 "BO030803" ;
 .
 
 <urn:mdciii:1603:16:68:3:30901>
@@ -1741,7 +1741,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30901" ;
     skos:prefLabel "Quillacollo"@spa-Latn ;
-    wdata:q7200235 "BO030901" ;
+    wdata:Q7200235 "BO030901" ;
 .
 
 <urn:mdciii:1603:16:68:3:30902>
@@ -1751,7 +1751,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30902" ;
     skos:prefLabel "Sipesipe"@spa-Latn ;
-    wdata:q7200235 "BO030902" ;
+    wdata:Q7200235 "BO030902" ;
 .
 
 <urn:mdciii:1603:16:68:3:30903>
@@ -1761,7 +1761,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30903" ;
     skos:prefLabel "Tiquipaya"@spa-Latn ;
-    wdata:q7200235 "BO030903" ;
+    wdata:Q7200235 "BO030903" ;
 .
 
 <urn:mdciii:1603:16:68:3:30904>
@@ -1771,7 +1771,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30904" ;
     skos:prefLabel "Vinto"@spa-Latn ;
-    wdata:q7200235 "BO030904" ;
+    wdata:Q7200235 "BO030904" ;
 .
 
 <urn:mdciii:1603:16:68:3:30905>
@@ -1781,7 +1781,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:30905" ;
     skos:prefLabel "Colcapirhua"@spa-Latn ;
-    wdata:q7200235 "BO030905" ;
+    wdata:Q7200235 "BO030905" ;
 .
 
 <urn:mdciii:1603:16:68:3:31001>
@@ -1791,7 +1791,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31001" ;
     skos:prefLabel "Sacaba"@spa-Latn ;
-    wdata:q7200235 "BO031001" ;
+    wdata:Q7200235 "BO031001" ;
 .
 
 <urn:mdciii:1603:16:68:3:31002>
@@ -1801,7 +1801,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31002" ;
     skos:prefLabel "Colomi"@spa-Latn ;
-    wdata:q7200235 "BO031002" ;
+    wdata:Q7200235 "BO031002" ;
 .
 
 <urn:mdciii:1603:16:68:3:31003>
@@ -1811,7 +1811,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31003" ;
     skos:prefLabel "Villa Tunari"@spa-Latn ;
-    wdata:q7200235 "BO031003" ;
+    wdata:Q7200235 "BO031003" ;
 .
 
 <urn:mdciii:1603:16:68:3:31101>
@@ -1821,7 +1821,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31101" ;
     skos:prefLabel "Tapacarí"@spa-Latn ;
-    wdata:q7200235 "BO031101" ;
+    wdata:Q7200235 "BO031101" ;
 .
 
 <urn:mdciii:1603:16:68:3:31201>
@@ -1831,7 +1831,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31201" ;
     skos:prefLabel "Totora"@spa-Latn ;
-    wdata:q7200235 "BO031201" ;
+    wdata:Q7200235 "BO031201" ;
 .
 
 <urn:mdciii:1603:16:68:3:31202>
@@ -1841,7 +1841,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31202" ;
     skos:prefLabel "Pojo"@spa-Latn ;
-    wdata:q7200235 "BO031202" ;
+    wdata:Q7200235 "BO031202" ;
 .
 
 <urn:mdciii:1603:16:68:3:31203>
@@ -1851,7 +1851,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31203" ;
     skos:prefLabel "Pocona"@spa-Latn ;
-    wdata:q7200235 "BO031203" ;
+    wdata:Q7200235 "BO031203" ;
 .
 
 <urn:mdciii:1603:16:68:3:31204>
@@ -1861,7 +1861,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31204" ;
     skos:prefLabel "Chimoré"@spa-Latn ;
-    wdata:q7200235 "BO031204" ;
+    wdata:Q7200235 "BO031204" ;
 .
 
 <urn:mdciii:1603:16:68:3:31205>
@@ -1871,7 +1871,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31205" ;
     skos:prefLabel "Puerto Villarroel"@spa-Latn ;
-    wdata:q7200235 "BO031205" ;
+    wdata:Q7200235 "BO031205" ;
 .
 
 <urn:mdciii:1603:16:68:3:31206>
@@ -1881,7 +1881,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31206" ;
     skos:prefLabel "Entre Ríos"@spa-Latn ;
-    wdata:q7200235 "BO031206" ;
+    wdata:Q7200235 "BO031206" ;
 .
 
 <urn:mdciii:1603:16:68:3:31301>
@@ -1891,7 +1891,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31301" ;
     skos:prefLabel "Mizque"@spa-Latn ;
-    wdata:q7200235 "BO031301" ;
+    wdata:Q7200235 "BO031301" ;
 .
 
 <urn:mdciii:1603:16:68:3:31302>
@@ -1901,7 +1901,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31302" ;
     skos:prefLabel "Vila Vila"@spa-Latn ;
-    wdata:q7200235 "BO031302" ;
+    wdata:Q7200235 "BO031302" ;
 .
 
 <urn:mdciii:1603:16:68:3:31303>
@@ -1911,7 +1911,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31303" ;
     skos:prefLabel "Alalay"@spa-Latn ;
-    wdata:q7200235 "BO031303" ;
+    wdata:Q7200235 "BO031303" ;
 .
 
 <urn:mdciii:1603:16:68:3:31401>
@@ -1921,7 +1921,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31401" ;
     skos:prefLabel "Punata"@spa-Latn ;
-    wdata:q7200235 "BO031401" ;
+    wdata:Q7200235 "BO031401" ;
 .
 
 <urn:mdciii:1603:16:68:3:31402>
@@ -1931,7 +1931,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31402" ;
     skos:prefLabel "Villa Rivero"@spa-Latn ;
-    wdata:q7200235 "BO031402" ;
+    wdata:Q7200235 "BO031402" ;
 .
 
 <urn:mdciii:1603:16:68:3:31403>
@@ -1941,7 +1941,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31403" ;
     skos:prefLabel "San Benito"@spa-Latn ;
-    wdata:q7200235 "BO031403" ;
+    wdata:Q7200235 "BO031403" ;
 .
 
 <urn:mdciii:1603:16:68:3:31404>
@@ -1951,7 +1951,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31404" ;
     skos:prefLabel "Tacachi"@spa-Latn ;
-    wdata:q7200235 "BO031404" ;
+    wdata:Q7200235 "BO031404" ;
 .
 
 <urn:mdciii:1603:16:68:3:31405>
@@ -1961,7 +1961,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31405" ;
     skos:prefLabel "Villa Gualberto Villarroel"@spa-Latn ;
-    wdata:q7200235 "BO031405" ;
+    wdata:Q7200235 "BO031405" ;
 .
 
 <urn:mdciii:1603:16:68:3:31501>
@@ -1971,7 +1971,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31501" ;
     skos:prefLabel "Bolivar"@spa-Latn ;
-    wdata:q7200235 "BO031501" ;
+    wdata:Q7200235 "BO031501" ;
 .
 
 <urn:mdciii:1603:16:68:3:31601>
@@ -1981,7 +1981,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31601" ;
     skos:prefLabel "Tiraque"@spa-Latn ;
-    wdata:q7200235 "BO031601" ;
+    wdata:Q7200235 "BO031601" ;
 .
 
 <urn:mdciii:1603:16:68:3:31602>
@@ -1991,7 +1991,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:31602" ;
     skos:prefLabel "Shinahota"@spa-Latn ;
-    wdata:q7200235 "BO031602" ;
+    wdata:Q7200235 "BO031602" ;
 .
 
 <urn:mdciii:1603:16:68:3:40101>
@@ -2001,7 +2001,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40101" ;
     skos:prefLabel "Oruro"@spa-Latn ;
-    wdata:q7200235 "BO040101" ;
+    wdata:Q7200235 "BO040101" ;
 .
 
 <urn:mdciii:1603:16:68:3:40102>
@@ -2011,7 +2011,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40102" ;
     skos:prefLabel "Caracollo"@spa-Latn ;
-    wdata:q7200235 "BO040102" ;
+    wdata:Q7200235 "BO040102" ;
 .
 
 <urn:mdciii:1603:16:68:3:40103>
@@ -2021,7 +2021,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40103" ;
     skos:prefLabel "El Choro"@spa-Latn ;
-    wdata:q7200235 "BO040103" ;
+    wdata:Q7200235 "BO040103" ;
 .
 
 <urn:mdciii:1603:16:68:3:40104>
@@ -2031,7 +2031,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40104" ;
     skos:prefLabel "Paria"@spa-Latn ;
-    wdata:q7200235 "BO040104" ;
+    wdata:Q7200235 "BO040104" ;
 .
 
 <urn:mdciii:1603:16:68:3:40201>
@@ -2041,7 +2041,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40201" ;
     skos:prefLabel "Challapata"@spa-Latn ;
-    wdata:q7200235 "BO040201" ;
+    wdata:Q7200235 "BO040201" ;
 .
 
 <urn:mdciii:1603:16:68:3:40202>
@@ -2051,7 +2051,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40202" ;
     skos:prefLabel "Santuario de Quillacas"@spa-Latn ;
-    wdata:q7200235 "BO040202" ;
+    wdata:Q7200235 "BO040202" ;
 .
 
 <urn:mdciii:1603:16:68:3:40301>
@@ -2061,7 +2061,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40301" ;
     skos:prefLabel "Corque"@spa-Latn ;
-    wdata:q7200235 "BO040301" ;
+    wdata:Q7200235 "BO040301" ;
 .
 
 <urn:mdciii:1603:16:68:3:40302>
@@ -2071,7 +2071,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40302" ;
     skos:prefLabel "Choquecota"@spa-Latn ;
-    wdata:q7200235 "BO040302" ;
+    wdata:Q7200235 "BO040302" ;
 .
 
 <urn:mdciii:1603:16:68:3:40401>
@@ -2081,7 +2081,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40401" ;
     skos:prefLabel "Curahuara de Carangas"@spa-Latn ;
-    wdata:q7200235 "BO040401" ;
+    wdata:Q7200235 "BO040401" ;
 .
 
 <urn:mdciii:1603:16:68:3:40402>
@@ -2091,7 +2091,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40402" ;
     skos:prefLabel "Turco"@spa-Latn ;
-    wdata:q7200235 "BO040402" ;
+    wdata:Q7200235 "BO040402" ;
 .
 
 <urn:mdciii:1603:16:68:3:40501>
@@ -2101,7 +2101,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40501" ;
     skos:prefLabel "Huachacalla"@spa-Latn ;
-    wdata:q7200235 "BO040501" ;
+    wdata:Q7200235 "BO040501" ;
 .
 
 <urn:mdciii:1603:16:68:3:40502>
@@ -2111,7 +2111,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40502" ;
     skos:prefLabel "Escara"@spa-Latn ;
-    wdata:q7200235 "BO040502" ;
+    wdata:Q7200235 "BO040502" ;
 .
 
 <urn:mdciii:1603:16:68:3:40503>
@@ -2121,7 +2121,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40503" ;
     skos:prefLabel "Cruz de Machacamarca"@spa-Latn ;
-    wdata:q7200235 "BO040503" ;
+    wdata:Q7200235 "BO040503" ;
 .
 
 <urn:mdciii:1603:16:68:3:40504>
@@ -2131,7 +2131,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40504" ;
     skos:prefLabel "Yunguyo del Litoral"@spa-Latn ;
-    wdata:q7200235 "BO040504" ;
+    wdata:Q7200235 "BO040504" ;
 .
 
 <urn:mdciii:1603:16:68:3:40505>
@@ -2141,7 +2141,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40505" ;
     skos:prefLabel "Esmeralda"@spa-Latn ;
-    wdata:q7200235 "BO040505" ;
+    wdata:Q7200235 "BO040505" ;
 .
 
 <urn:mdciii:1603:16:68:3:40601>
@@ -2151,7 +2151,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40601" ;
     skos:prefLabel "Poopó"@spa-Latn ;
-    wdata:q7200235 "BO040601" ;
+    wdata:Q7200235 "BO040601" ;
 .
 
 <urn:mdciii:1603:16:68:3:40602>
@@ -2161,7 +2161,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40602" ;
     skos:prefLabel "Pazña"@spa-Latn ;
-    wdata:q7200235 "BO040602" ;
+    wdata:Q7200235 "BO040602" ;
 .
 
 <urn:mdciii:1603:16:68:3:40603>
@@ -2171,7 +2171,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40603" ;
     skos:prefLabel "Antequera"@spa-Latn ;
-    wdata:q7200235 "BO040603" ;
+    wdata:Q7200235 "BO040603" ;
 .
 
 <urn:mdciii:1603:16:68:3:40701>
@@ -2181,7 +2181,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40701" ;
     skos:prefLabel "Huanuni"@spa-Latn ;
-    wdata:q7200235 "BO040701" ;
+    wdata:Q7200235 "BO040701" ;
 .
 
 <urn:mdciii:1603:16:68:3:40702>
@@ -2191,7 +2191,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40702" ;
     skos:prefLabel "Machacamarca"@spa-Latn ;
-    wdata:q7200235 "BO040702" ;
+    wdata:Q7200235 "BO040702" ;
 .
 
 <urn:mdciii:1603:16:68:3:40801>
@@ -2201,7 +2201,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40801" ;
     skos:prefLabel "Salinas de Garcí Mendoza"@spa-Latn ;
-    wdata:q7200235 "BO040801" ;
+    wdata:Q7200235 "BO040801" ;
 .
 
 <urn:mdciii:1603:16:68:3:40802>
@@ -2211,7 +2211,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40802" ;
     skos:prefLabel "Pampa Aullagas"@spa-Latn ;
-    wdata:q7200235 "BO040802" ;
+    wdata:Q7200235 "BO040802" ;
 .
 
 <urn:mdciii:1603:16:68:3:40901>
@@ -2221,7 +2221,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40901" ;
     skos:prefLabel "Sabaya"@spa-Latn ;
-    wdata:q7200235 "BO040901" ;
+    wdata:Q7200235 "BO040901" ;
 .
 
 <urn:mdciii:1603:16:68:3:40902>
@@ -2231,7 +2231,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40902" ;
     skos:prefLabel "Coipasa"@spa-Latn ;
-    wdata:q7200235 "BO040902" ;
+    wdata:Q7200235 "BO040902" ;
 .
 
 <urn:mdciii:1603:16:68:3:40903>
@@ -2241,7 +2241,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:40903" ;
     skos:prefLabel "Chipaya"@spa-Latn ;
-    wdata:q7200235 "BO040903" ;
+    wdata:Q7200235 "BO040903" ;
 .
 
 <urn:mdciii:1603:16:68:3:41001>
@@ -2251,7 +2251,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:41001" ;
     skos:prefLabel "Toledo"@spa-Latn ;
-    wdata:q7200235 "BO041001" ;
+    wdata:Q7200235 "BO041001" ;
 .
 
 <urn:mdciii:1603:16:68:3:41101>
@@ -2261,7 +2261,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:41101" ;
     skos:prefLabel "Eucaliptus"@spa-Latn ;
-    wdata:q7200235 "BO041101" ;
+    wdata:Q7200235 "BO041101" ;
 .
 
 <urn:mdciii:1603:16:68:3:41201>
@@ -2271,7 +2271,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:41201" ;
     skos:prefLabel "Andamarca"@spa-Latn ;
-    wdata:q7200235 "BO041201" ;
+    wdata:Q7200235 "BO041201" ;
 .
 
 <urn:mdciii:1603:16:68:3:41202>
@@ -2281,7 +2281,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:41202" ;
     skos:prefLabel "Belén de Andamarca"@spa-Latn ;
-    wdata:q7200235 "BO041202" ;
+    wdata:Q7200235 "BO041202" ;
 .
 
 <urn:mdciii:1603:16:68:3:41301>
@@ -2291,7 +2291,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:41301" ;
     skos:prefLabel "Totora"@spa-Latn ;
-    wdata:q7200235 "BO041301" ;
+    wdata:Q7200235 "BO041301" ;
 .
 
 <urn:mdciii:1603:16:68:3:41401>
@@ -2301,7 +2301,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:41401" ;
     skos:prefLabel "Santiago de Huari"@spa-Latn ;
-    wdata:q7200235 "BO041401" ;
+    wdata:Q7200235 "BO041401" ;
 .
 
 <urn:mdciii:1603:16:68:3:41501>
@@ -2311,7 +2311,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:41501" ;
     skos:prefLabel "La Rivera"@spa-Latn ;
-    wdata:q7200235 "BO041501" ;
+    wdata:Q7200235 "BO041501" ;
 .
 
 <urn:mdciii:1603:16:68:3:41502>
@@ -2321,7 +2321,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:41502" ;
     skos:prefLabel "Todos Santos"@spa-Latn ;
-    wdata:q7200235 "BO041502" ;
+    wdata:Q7200235 "BO041502" ;
 .
 
 <urn:mdciii:1603:16:68:3:41503>
@@ -2331,7 +2331,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:41503" ;
     skos:prefLabel "Carangas"@spa-Latn ;
-    wdata:q7200235 "BO041503" ;
+    wdata:Q7200235 "BO041503" ;
 .
 
 <urn:mdciii:1603:16:68:3:41601>
@@ -2341,7 +2341,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:41601" ;
     skos:prefLabel "Huayllamarca"@spa-Latn ;
-    wdata:q7200235 "BO041601" ;
+    wdata:Q7200235 "BO041601" ;
 .
 
 <urn:mdciii:1603:16:68:3:50101>
@@ -2351,7 +2351,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50101" ;
     skos:prefLabel "Potosí"@spa-Latn ;
-    wdata:q7200235 "BO050101" ;
+    wdata:Q7200235 "BO050101" ;
 .
 
 <urn:mdciii:1603:16:68:3:50102>
@@ -2361,7 +2361,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50102" ;
     skos:prefLabel "Tinguipaya"@spa-Latn ;
-    wdata:q7200235 "BO050102" ;
+    wdata:Q7200235 "BO050102" ;
 .
 
 <urn:mdciii:1603:16:68:3:50103>
@@ -2371,7 +2371,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50103" ;
     skos:prefLabel "Yocalla"@spa-Latn ;
-    wdata:q7200235 "BO050103" ;
+    wdata:Q7200235 "BO050103" ;
 .
 
 <urn:mdciii:1603:16:68:3:50104>
@@ -2381,7 +2381,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50104" ;
     skos:prefLabel "Urmiri"@spa-Latn ;
-    wdata:q7200235 "BO050104" ;
+    wdata:Q7200235 "BO050104" ;
 .
 
 <urn:mdciii:1603:16:68:3:50201>
@@ -2391,7 +2391,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50201" ;
     skos:prefLabel "Uncía"@spa-Latn ;
-    wdata:q7200235 "BO050201" ;
+    wdata:Q7200235 "BO050201" ;
 .
 
 <urn:mdciii:1603:16:68:3:50202>
@@ -2401,7 +2401,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50202" ;
     skos:prefLabel "Chayanta"@spa-Latn ;
-    wdata:q7200235 "BO050202" ;
+    wdata:Q7200235 "BO050202" ;
 .
 
 <urn:mdciii:1603:16:68:3:50203>
@@ -2411,7 +2411,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50203" ;
     skos:prefLabel "Llallagua"@spa-Latn ;
-    wdata:q7200235 "BO050203" ;
+    wdata:Q7200235 "BO050203" ;
 .
 
 <urn:mdciii:1603:16:68:3:50204>
@@ -2421,7 +2421,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50204" ;
     skos:prefLabel "Chuquihuta Ayllu Jucumani"@spa-Latn ;
-    wdata:q7200235 "BO050204" ;
+    wdata:Q7200235 "BO050204" ;
 .
 
 <urn:mdciii:1603:16:68:3:50301>
@@ -2431,7 +2431,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50301" ;
     skos:prefLabel "Betanzos"@spa-Latn ;
-    wdata:q7200235 "BO050301" ;
+    wdata:Q7200235 "BO050301" ;
 .
 
 <urn:mdciii:1603:16:68:3:50302>
@@ -2441,7 +2441,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50302" ;
     skos:prefLabel "Chaquí"@spa-Latn ;
-    wdata:q7200235 "BO050302" ;
+    wdata:Q7200235 "BO050302" ;
 .
 
 <urn:mdciii:1603:16:68:3:50303>
@@ -2451,7 +2451,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50303" ;
     skos:prefLabel "Tacobamba"@spa-Latn ;
-    wdata:q7200235 "BO050303" ;
+    wdata:Q7200235 "BO050303" ;
 .
 
 <urn:mdciii:1603:16:68:3:50401>
@@ -2461,7 +2461,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50401" ;
     skos:prefLabel "Colquechaca"@spa-Latn ;
-    wdata:q7200235 "BO050401" ;
+    wdata:Q7200235 "BO050401" ;
 .
 
 <urn:mdciii:1603:16:68:3:50402>
@@ -2471,7 +2471,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50402" ;
     skos:prefLabel "Ravelo"@spa-Latn ;
-    wdata:q7200235 "BO050402" ;
+    wdata:Q7200235 "BO050402" ;
 .
 
 <urn:mdciii:1603:16:68:3:50403>
@@ -2481,7 +2481,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50403" ;
     skos:prefLabel "Pocoata"@spa-Latn ;
-    wdata:q7200235 "BO050403" ;
+    wdata:Q7200235 "BO050403" ;
 .
 
 <urn:mdciii:1603:16:68:3:50404>
@@ -2491,7 +2491,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50404" ;
     skos:prefLabel "Ocurí"@spa-Latn ;
-    wdata:q7200235 "BO050404" ;
+    wdata:Q7200235 "BO050404" ;
 .
 
 <urn:mdciii:1603:16:68:3:50501>
@@ -2501,7 +2501,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50501" ;
     skos:prefLabel "San Pedro"@spa-Latn ;
-    wdata:q7200235 "BO050501" ;
+    wdata:Q7200235 "BO050501" ;
 .
 
 <urn:mdciii:1603:16:68:3:50502>
@@ -2511,7 +2511,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50502" ;
     skos:prefLabel "Toro Toro"@spa-Latn ;
-    wdata:q7200235 "BO050502" ;
+    wdata:Q7200235 "BO050502" ;
 .
 
 <urn:mdciii:1603:16:68:3:50601>
@@ -2521,7 +2521,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50601" ;
     skos:prefLabel "Cotagaita"@spa-Latn ;
-    wdata:q7200235 "BO050601" ;
+    wdata:Q7200235 "BO050601" ;
 .
 
 <urn:mdciii:1603:16:68:3:50602>
@@ -2531,7 +2531,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50602" ;
     skos:prefLabel "Vitiche"@spa-Latn ;
-    wdata:q7200235 "BO050602" ;
+    wdata:Q7200235 "BO050602" ;
 .
 
 <urn:mdciii:1603:16:68:3:50701>
@@ -2541,7 +2541,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50701" ;
     skos:prefLabel "Sacaca"@spa-Latn ;
-    wdata:q7200235 "BO050701" ;
+    wdata:Q7200235 "BO050701" ;
 .
 
 <urn:mdciii:1603:16:68:3:50702>
@@ -2551,7 +2551,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50702" ;
     skos:prefLabel "Caripuyo"@spa-Latn ;
-    wdata:q7200235 "BO050702" ;
+    wdata:Q7200235 "BO050702" ;
 .
 
 <urn:mdciii:1603:16:68:3:50801>
@@ -2561,7 +2561,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50801" ;
     skos:prefLabel "Tupiza"@spa-Latn ;
-    wdata:q7200235 "BO050801" ;
+    wdata:Q7200235 "BO050801" ;
 .
 
 <urn:mdciii:1603:16:68:3:50802>
@@ -2571,7 +2571,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50802" ;
     skos:prefLabel "Atocha"@spa-Latn ;
-    wdata:q7200235 "BO050802" ;
+    wdata:Q7200235 "BO050802" ;
 .
 
 <urn:mdciii:1603:16:68:3:50901>
@@ -2581,7 +2581,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50901" ;
     skos:prefLabel "Colcha \"K\""@spa-Latn ;
-    wdata:q7200235 "BO050901" ;
+    wdata:Q7200235 "BO050901" ;
 .
 
 <urn:mdciii:1603:16:68:3:50902>
@@ -2591,7 +2591,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:50902" ;
     skos:prefLabel "San Pedro de Quemes"@spa-Latn ;
-    wdata:q7200235 "BO050902" ;
+    wdata:Q7200235 "BO050902" ;
 .
 
 <urn:mdciii:1603:16:68:3:51001>
@@ -2601,7 +2601,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:51001" ;
     skos:prefLabel "San Pablo"@spa-Latn ;
-    wdata:q7200235 "BO051001" ;
+    wdata:Q7200235 "BO051001" ;
 .
 
 <urn:mdciii:1603:16:68:3:51002>
@@ -2611,7 +2611,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:51002" ;
     skos:prefLabel "Mojinete"@spa-Latn ;
-    wdata:q7200235 "BO051002" ;
+    wdata:Q7200235 "BO051002" ;
 .
 
 <urn:mdciii:1603:16:68:3:51003>
@@ -2621,7 +2621,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:51003" ;
     skos:prefLabel "San Antonio de Esmoruco"@spa-Latn ;
-    wdata:q7200235 "BO051003" ;
+    wdata:Q7200235 "BO051003" ;
 .
 
 <urn:mdciii:1603:16:68:3:51101>
@@ -2631,7 +2631,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:51101" ;
     skos:prefLabel "Puna"@spa-Latn ;
-    wdata:q7200235 "BO051101" ;
+    wdata:Q7200235 "BO051101" ;
 .
 
 <urn:mdciii:1603:16:68:3:51102>
@@ -2641,7 +2641,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:51102" ;
     skos:prefLabel "Caiza \"D\""@spa-Latn ;
-    wdata:q7200235 "BO051102" ;
+    wdata:Q7200235 "BO051102" ;
 .
 
 <urn:mdciii:1603:16:68:3:51103>
@@ -2651,7 +2651,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:51103" ;
     skos:prefLabel "Ckochas"@spa-Latn ;
-    wdata:q7200235 "BO051103" ;
+    wdata:Q7200235 "BO051103" ;
 .
 
 <urn:mdciii:1603:16:68:3:51201>
@@ -2661,7 +2661,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:51201" ;
     skos:prefLabel "Uyuni"@spa-Latn ;
-    wdata:q7200235 "BO051201" ;
+    wdata:Q7200235 "BO051201" ;
 .
 
 <urn:mdciii:1603:16:68:3:51202>
@@ -2671,7 +2671,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:51202" ;
     skos:prefLabel "Tomave"@spa-Latn ;
-    wdata:q7200235 "BO051202" ;
+    wdata:Q7200235 "BO051202" ;
 .
 
 <urn:mdciii:1603:16:68:3:51203>
@@ -2681,7 +2681,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:51203" ;
     skos:prefLabel "Porco"@spa-Latn ;
-    wdata:q7200235 "BO051203" ;
+    wdata:Q7200235 "BO051203" ;
 .
 
 <urn:mdciii:1603:16:68:3:51301>
@@ -2691,7 +2691,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:51301" ;
     skos:prefLabel "Arampampa"@spa-Latn ;
-    wdata:q7200235 "BO051301" ;
+    wdata:Q7200235 "BO051301" ;
 .
 
 <urn:mdciii:1603:16:68:3:51302>
@@ -2701,7 +2701,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:51302" ;
     skos:prefLabel "Acasio"@spa-Latn ;
-    wdata:q7200235 "BO051302" ;
+    wdata:Q7200235 "BO051302" ;
 .
 
 <urn:mdciii:1603:16:68:3:51401>
@@ -2711,7 +2711,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:51401" ;
     skos:prefLabel "Llica"@spa-Latn ;
-    wdata:q7200235 "BO051401" ;
+    wdata:Q7200235 "BO051401" ;
 .
 
 <urn:mdciii:1603:16:68:3:51402>
@@ -2721,7 +2721,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:51402" ;
     skos:prefLabel "Tahua"@spa-Latn ;
-    wdata:q7200235 "BO051402" ;
+    wdata:Q7200235 "BO051402" ;
 .
 
 <urn:mdciii:1603:16:68:3:51501>
@@ -2731,7 +2731,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:51501" ;
     skos:prefLabel "Villazón"@spa-Latn ;
-    wdata:q7200235 "BO051501" ;
+    wdata:Q7200235 "BO051501" ;
 .
 
 <urn:mdciii:1603:16:68:3:51601>
@@ -2741,7 +2741,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:51601" ;
     skos:prefLabel "San Agustín"@spa-Latn ;
-    wdata:q7200235 "BO051601" ;
+    wdata:Q7200235 "BO051601" ;
 .
 
 <urn:mdciii:1603:16:68:3:60101>
@@ -2751,7 +2751,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:60101" ;
     skos:prefLabel "Tarija"@spa-Latn ;
-    wdata:q7200235 "BO060101" ;
+    wdata:Q7200235 "BO060101" ;
 .
 
 <urn:mdciii:1603:16:68:3:60201>
@@ -2761,7 +2761,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:60201" ;
     skos:prefLabel "Padcaya"@spa-Latn ;
-    wdata:q7200235 "BO060201" ;
+    wdata:Q7200235 "BO060201" ;
 .
 
 <urn:mdciii:1603:16:68:3:60202>
@@ -2771,7 +2771,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:60202" ;
     skos:prefLabel "Bermejo"@spa-Latn ;
-    wdata:q7200235 "BO060202" ;
+    wdata:Q7200235 "BO060202" ;
 .
 
 <urn:mdciii:1603:16:68:3:60301>
@@ -2781,7 +2781,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:60301" ;
     skos:prefLabel "Yacuiba"@spa-Latn ;
-    wdata:q7200235 "BO060301" ;
+    wdata:Q7200235 "BO060301" ;
 .
 
 <urn:mdciii:1603:16:68:3:60302>
@@ -2791,7 +2791,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:60302" ;
     skos:prefLabel "Caraparí"@spa-Latn ;
-    wdata:q7200235 "BO060302" ;
+    wdata:Q7200235 "BO060302" ;
 .
 
 <urn:mdciii:1603:16:68:3:60303>
@@ -2801,7 +2801,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:60303" ;
     skos:prefLabel "Villa Montes"@spa-Latn ;
-    wdata:q7200235 "BO060303" ;
+    wdata:Q7200235 "BO060303" ;
 .
 
 <urn:mdciii:1603:16:68:3:60401>
@@ -2811,7 +2811,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:60401" ;
     skos:prefLabel "Uriondo"@spa-Latn ;
-    wdata:q7200235 "BO060401" ;
+    wdata:Q7200235 "BO060401" ;
 .
 
 <urn:mdciii:1603:16:68:3:60402>
@@ -2821,7 +2821,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:60402" ;
     skos:prefLabel "Yunchará"@spa-Latn ;
-    wdata:q7200235 "BO060402" ;
+    wdata:Q7200235 "BO060402" ;
 .
 
 <urn:mdciii:1603:16:68:3:60501>
@@ -2831,7 +2831,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:60501" ;
     skos:prefLabel "San Lorenzo"@spa-Latn ;
-    wdata:q7200235 "BO060501" ;
+    wdata:Q7200235 "BO060501" ;
 .
 
 <urn:mdciii:1603:16:68:3:60502>
@@ -2841,7 +2841,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:60502" ;
     skos:prefLabel "El Puente"@spa-Latn ;
-    wdata:q7200235 "BO060502" ;
+    wdata:Q7200235 "BO060502" ;
 .
 
 <urn:mdciii:1603:16:68:3:60601>
@@ -2851,7 +2851,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:60601" ;
     skos:prefLabel "Entre Ríos"@spa-Latn ;
-    wdata:q7200235 "BO060601" ;
+    wdata:Q7200235 "BO060601" ;
 .
 
 <urn:mdciii:1603:16:68:3:70101>
@@ -2861,7 +2861,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70101" ;
     skos:prefLabel "Santa Cruz de la Sierra"@spa-Latn ;
-    wdata:q7200235 "BO070101" ;
+    wdata:Q7200235 "BO070101" ;
 .
 
 <urn:mdciii:1603:16:68:3:70102>
@@ -2871,7 +2871,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70102" ;
     skos:prefLabel "Cotoca"@spa-Latn ;
-    wdata:q7200235 "BO070102" ;
+    wdata:Q7200235 "BO070102" ;
 .
 
 <urn:mdciii:1603:16:68:3:70103>
@@ -2881,7 +2881,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70103" ;
     skos:prefLabel "Porongo"@spa-Latn ;
-    wdata:q7200235 "BO070103" ;
+    wdata:Q7200235 "BO070103" ;
 .
 
 <urn:mdciii:1603:16:68:3:70104>
@@ -2891,7 +2891,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70104" ;
     skos:prefLabel "La Guardia"@spa-Latn ;
-    wdata:q7200235 "BO070104" ;
+    wdata:Q7200235 "BO070104" ;
 .
 
 <urn:mdciii:1603:16:68:3:70105>
@@ -2901,7 +2901,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70105" ;
     skos:prefLabel "El Torno"@spa-Latn ;
-    wdata:q7200235 "BO070105" ;
+    wdata:Q7200235 "BO070105" ;
 .
 
 <urn:mdciii:1603:16:68:3:70201>
@@ -2911,7 +2911,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70201" ;
     skos:prefLabel "Warnes"@spa-Latn ;
-    wdata:q7200235 "BO070201" ;
+    wdata:Q7200235 "BO070201" ;
 .
 
 <urn:mdciii:1603:16:68:3:70202>
@@ -2921,7 +2921,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70202" ;
     skos:prefLabel "Okinawa Uno"@spa-Latn ;
-    wdata:q7200235 "BO070202" ;
+    wdata:Q7200235 "BO070202" ;
 .
 
 <urn:mdciii:1603:16:68:3:70301>
@@ -2931,7 +2931,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70301" ;
     skos:prefLabel "San Ignacio"@spa-Latn ;
-    wdata:q7200235 "BO070301" ;
+    wdata:Q7200235 "BO070301" ;
 .
 
 <urn:mdciii:1603:16:68:3:70302>
@@ -2941,7 +2941,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70302" ;
     skos:prefLabel "San Miguel"@spa-Latn ;
-    wdata:q7200235 "BO070302" ;
+    wdata:Q7200235 "BO070302" ;
 .
 
 <urn:mdciii:1603:16:68:3:70303>
@@ -2951,7 +2951,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70303" ;
     skos:prefLabel "San Rafael"@spa-Latn ;
-    wdata:q7200235 "BO070303" ;
+    wdata:Q7200235 "BO070303" ;
 .
 
 <urn:mdciii:1603:16:68:3:70401>
@@ -2961,7 +2961,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70401" ;
     skos:prefLabel "Buena Vista"@spa-Latn ;
-    wdata:q7200235 "BO070401" ;
+    wdata:Q7200235 "BO070401" ;
 .
 
 <urn:mdciii:1603:16:68:3:70402>
@@ -2971,7 +2971,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70402" ;
     skos:prefLabel "San Carlos"@spa-Latn ;
-    wdata:q7200235 "BO070402" ;
+    wdata:Q7200235 "BO070402" ;
 .
 
 <urn:mdciii:1603:16:68:3:70403>
@@ -2981,7 +2981,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70403" ;
     skos:prefLabel "Yapacaní"@spa-Latn ;
-    wdata:q7200235 "BO070403" ;
+    wdata:Q7200235 "BO070403" ;
 .
 
 <urn:mdciii:1603:16:68:3:70404>
@@ -2991,7 +2991,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70404" ;
     skos:prefLabel "San Juan"@spa-Latn ;
-    wdata:q7200235 "BO070404" ;
+    wdata:Q7200235 "BO070404" ;
 .
 
 <urn:mdciii:1603:16:68:3:70501>
@@ -3001,7 +3001,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70501" ;
     skos:prefLabel "San José"@spa-Latn ;
-    wdata:q7200235 "BO070501" ;
+    wdata:Q7200235 "BO070501" ;
 .
 
 <urn:mdciii:1603:16:68:3:70502>
@@ -3011,7 +3011,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70502" ;
     skos:prefLabel "Pailón"@spa-Latn ;
-    wdata:q7200235 "BO070502" ;
+    wdata:Q7200235 "BO070502" ;
 .
 
 <urn:mdciii:1603:16:68:3:70503>
@@ -3021,7 +3021,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70503" ;
     skos:prefLabel "Roboré"@spa-Latn ;
-    wdata:q7200235 "BO070503" ;
+    wdata:Q7200235 "BO070503" ;
 .
 
 <urn:mdciii:1603:16:68:3:70601>
@@ -3031,7 +3031,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70601" ;
     skos:prefLabel "Portachuelo"@spa-Latn ;
-    wdata:q7200235 "BO070601" ;
+    wdata:Q7200235 "BO070601" ;
 .
 
 <urn:mdciii:1603:16:68:3:70602>
@@ -3041,7 +3041,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70602" ;
     skos:prefLabel "Santa Rosa"@spa-Latn ;
-    wdata:q7200235 "BO070602" ;
+    wdata:Q7200235 "BO070602" ;
 .
 
 <urn:mdciii:1603:16:68:3:70603>
@@ -3051,7 +3051,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70603" ;
     skos:prefLabel "Colpa Bélgica"@spa-Latn ;
-    wdata:q7200235 "BO070603" ;
+    wdata:Q7200235 "BO070603" ;
 .
 
 <urn:mdciii:1603:16:68:3:70701>
@@ -3061,7 +3061,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70701" ;
     skos:prefLabel "Lagunillas"@spa-Latn ;
-    wdata:q7200235 "BO070701" ;
+    wdata:Q7200235 "BO070701" ;
 .
 
 <urn:mdciii:1603:16:68:3:70702>
@@ -3071,7 +3071,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70702" ;
     skos:prefLabel "Charagua"@spa-Latn ;
-    wdata:q7200235 "BO070702" ;
+    wdata:Q7200235 "BO070702" ;
 .
 
 <urn:mdciii:1603:16:68:3:70703>
@@ -3081,7 +3081,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70703" ;
     skos:prefLabel "Cabezas"@spa-Latn ;
-    wdata:q7200235 "BO070703" ;
+    wdata:Q7200235 "BO070703" ;
 .
 
 <urn:mdciii:1603:16:68:3:70704>
@@ -3091,7 +3091,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70704" ;
     skos:prefLabel "Cuevo"@spa-Latn ;
-    wdata:q7200235 "BO070704" ;
+    wdata:Q7200235 "BO070704" ;
 .
 
 <urn:mdciii:1603:16:68:3:70705>
@@ -3101,7 +3101,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70705" ;
     skos:prefLabel "Gutiérrez"@spa-Latn ;
-    wdata:q7200235 "BO070705" ;
+    wdata:Q7200235 "BO070705" ;
 .
 
 <urn:mdciii:1603:16:68:3:70706>
@@ -3111,7 +3111,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70706" ;
     skos:prefLabel "Camiri"@spa-Latn ;
-    wdata:q7200235 "BO070706" ;
+    wdata:Q7200235 "BO070706" ;
 .
 
 <urn:mdciii:1603:16:68:3:70707>
@@ -3121,7 +3121,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70707" ;
     skos:prefLabel "Boyuibe"@spa-Latn ;
-    wdata:q7200235 "BO070707" ;
+    wdata:Q7200235 "BO070707" ;
 .
 
 <urn:mdciii:1603:16:68:3:70801>
@@ -3131,7 +3131,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70801" ;
     skos:prefLabel "Vallegrande"@spa-Latn ;
-    wdata:q7200235 "BO070801" ;
+    wdata:Q7200235 "BO070801" ;
 .
 
 <urn:mdciii:1603:16:68:3:70802>
@@ -3141,7 +3141,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70802" ;
     skos:prefLabel "Trigal"@spa-Latn ;
-    wdata:q7200235 "BO070802" ;
+    wdata:Q7200235 "BO070802" ;
 .
 
 <urn:mdciii:1603:16:68:3:70803>
@@ -3151,7 +3151,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70803" ;
     skos:prefLabel "Moromoro"@spa-Latn ;
-    wdata:q7200235 "BO070803" ;
+    wdata:Q7200235 "BO070803" ;
 .
 
 <urn:mdciii:1603:16:68:3:70804>
@@ -3161,7 +3161,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70804" ;
     skos:prefLabel "Postrervalle"@spa-Latn ;
-    wdata:q7200235 "BO070804" ;
+    wdata:Q7200235 "BO070804" ;
 .
 
 <urn:mdciii:1603:16:68:3:70805>
@@ -3171,7 +3171,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70805" ;
     skos:prefLabel "Pucará"@spa-Latn ;
-    wdata:q7200235 "BO070805" ;
+    wdata:Q7200235 "BO070805" ;
 .
 
 <urn:mdciii:1603:16:68:3:70901>
@@ -3181,7 +3181,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70901" ;
     skos:prefLabel "Samaipata"@spa-Latn ;
-    wdata:q7200235 "BO070901" ;
+    wdata:Q7200235 "BO070901" ;
 .
 
 <urn:mdciii:1603:16:68:3:70902>
@@ -3191,7 +3191,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70902" ;
     skos:prefLabel "Pampa Grande"@spa-Latn ;
-    wdata:q7200235 "BO070902" ;
+    wdata:Q7200235 "BO070902" ;
 .
 
 <urn:mdciii:1603:16:68:3:70903>
@@ -3201,7 +3201,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70903" ;
     skos:prefLabel "Mairana"@spa-Latn ;
-    wdata:q7200235 "BO070903" ;
+    wdata:Q7200235 "BO070903" ;
 .
 
 <urn:mdciii:1603:16:68:3:70904>
@@ -3211,7 +3211,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:70904" ;
     skos:prefLabel "Quirusillas"@spa-Latn ;
-    wdata:q7200235 "BO070904" ;
+    wdata:Q7200235 "BO070904" ;
 .
 
 <urn:mdciii:1603:16:68:3:71001>
@@ -3221,7 +3221,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71001" ;
     skos:prefLabel "Montero"@spa-Latn ;
-    wdata:q7200235 "BO071001" ;
+    wdata:Q7200235 "BO071001" ;
 .
 
 <urn:mdciii:1603:16:68:3:71002>
@@ -3231,7 +3231,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71002" ;
     skos:prefLabel "General Saavedra"@spa-Latn ;
-    wdata:q7200235 "BO071002" ;
+    wdata:Q7200235 "BO071002" ;
 .
 
 <urn:mdciii:1603:16:68:3:71003>
@@ -3241,7 +3241,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71003" ;
     skos:prefLabel "Mineros"@spa-Latn ;
-    wdata:q7200235 "BO071003" ;
+    wdata:Q7200235 "BO071003" ;
 .
 
 <urn:mdciii:1603:16:68:3:71004>
@@ -3251,7 +3251,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71004" ;
     skos:prefLabel "Fernández Alonso"@spa-Latn ;
-    wdata:q7200235 "BO071004" ;
+    wdata:Q7200235 "BO071004" ;
 .
 
 <urn:mdciii:1603:16:68:3:71005>
@@ -3261,7 +3261,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71005" ;
     skos:prefLabel "San Pedro"@spa-Latn ;
-    wdata:q7200235 "BO071005" ;
+    wdata:Q7200235 "BO071005" ;
 .
 
 <urn:mdciii:1603:16:68:3:71101>
@@ -3271,7 +3271,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71101" ;
     skos:prefLabel "Concepción"@spa-Latn ;
-    wdata:q7200235 "BO071101" ;
+    wdata:Q7200235 "BO071101" ;
 .
 
 <urn:mdciii:1603:16:68:3:71102>
@@ -3281,7 +3281,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71102" ;
     skos:prefLabel "San Javier"@spa-Latn ;
-    wdata:q7200235 "BO071102" ;
+    wdata:Q7200235 "BO071102" ;
 .
 
 <urn:mdciii:1603:16:68:3:71103>
@@ -3291,7 +3291,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71103" ;
     skos:prefLabel "San Julián"@spa-Latn ;
-    wdata:q7200235 "BO071103" ;
+    wdata:Q7200235 "BO071103" ;
 .
 
 <urn:mdciii:1603:16:68:3:71104>
@@ -3301,7 +3301,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71104" ;
     skos:prefLabel "San Antonio de Lomerio"@spa-Latn ;
-    wdata:q7200235 "BO071104" ;
+    wdata:Q7200235 "BO071104" ;
 .
 
 <urn:mdciii:1603:16:68:3:71105>
@@ -3311,7 +3311,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71105" ;
     skos:prefLabel "San Ramón"@spa-Latn ;
-    wdata:q7200235 "BO071105" ;
+    wdata:Q7200235 "BO071105" ;
 .
 
 <urn:mdciii:1603:16:68:3:71106>
@@ -3321,7 +3321,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71106" ;
     skos:prefLabel "Cuatro Cañadas"@spa-Latn ;
-    wdata:q7200235 "BO071106" ;
+    wdata:Q7200235 "BO071106" ;
 .
 
 <urn:mdciii:1603:16:68:3:71201>
@@ -3331,7 +3331,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71201" ;
     skos:prefLabel "San Matías"@spa-Latn ;
-    wdata:q7200235 "BO071201" ;
+    wdata:Q7200235 "BO071201" ;
 .
 
 <urn:mdciii:1603:16:68:3:71301>
@@ -3341,7 +3341,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71301" ;
     skos:prefLabel "Comarapa"@spa-Latn ;
-    wdata:q7200235 "BO071301" ;
+    wdata:Q7200235 "BO071301" ;
 .
 
 <urn:mdciii:1603:16:68:3:71302>
@@ -3351,7 +3351,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71302" ;
     skos:prefLabel "Saipina"@spa-Latn ;
-    wdata:q7200235 "BO071302" ;
+    wdata:Q7200235 "BO071302" ;
 .
 
 <urn:mdciii:1603:16:68:3:71401>
@@ -3361,7 +3361,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71401" ;
     skos:prefLabel "Puerto Suarez"@spa-Latn ;
-    wdata:q7200235 "BO071401" ;
+    wdata:Q7200235 "BO071401" ;
 .
 
 <urn:mdciii:1603:16:68:3:71402>
@@ -3371,7 +3371,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71402" ;
     skos:prefLabel "Puerto Quijarro"@spa-Latn ;
-    wdata:q7200235 "BO071402" ;
+    wdata:Q7200235 "BO071402" ;
 .
 
 <urn:mdciii:1603:16:68:3:71403>
@@ -3381,7 +3381,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71403" ;
     skos:prefLabel "El Carmen Rivero Tórrez"@spa-Latn ;
-    wdata:q7200235 "BO071403" ;
+    wdata:Q7200235 "BO071403" ;
 .
 
 <urn:mdciii:1603:16:68:3:71501>
@@ -3391,7 +3391,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71501" ;
     skos:prefLabel "Ascención de Guarayos"@spa-Latn ;
-    wdata:q7200235 "BO071501" ;
+    wdata:Q7200235 "BO071501" ;
 .
 
 <urn:mdciii:1603:16:68:3:71502>
@@ -3401,7 +3401,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71502" ;
     skos:prefLabel "Urubicha"@spa-Latn ;
-    wdata:q7200235 "BO071502" ;
+    wdata:Q7200235 "BO071502" ;
 .
 
 <urn:mdciii:1603:16:68:3:71503>
@@ -3411,7 +3411,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:71503" ;
     skos:prefLabel "El Puente"@spa-Latn ;
-    wdata:q7200235 "BO071503" ;
+    wdata:Q7200235 "BO071503" ;
 .
 
 <urn:mdciii:1603:16:68:3:80101>
@@ -3421,7 +3421,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80101" ;
     skos:prefLabel "Trinidad"@spa-Latn ;
-    wdata:q7200235 "BO080101" ;
+    wdata:Q7200235 "BO080101" ;
 .
 
 <urn:mdciii:1603:16:68:3:80102>
@@ -3431,7 +3431,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80102" ;
     skos:prefLabel "San Javier"@spa-Latn ;
-    wdata:q7200235 "BO080102" ;
+    wdata:Q7200235 "BO080102" ;
 .
 
 <urn:mdciii:1603:16:68:3:80201>
@@ -3441,7 +3441,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80201" ;
     skos:prefLabel "Riberalta"@spa-Latn ;
-    wdata:q7200235 "BO080201" ;
+    wdata:Q7200235 "BO080201" ;
 .
 
 <urn:mdciii:1603:16:68:3:80202>
@@ -3451,7 +3451,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80202" ;
     skos:prefLabel "Guayaramerín"@spa-Latn ;
-    wdata:q7200235 "BO080202" ;
+    wdata:Q7200235 "BO080202" ;
 .
 
 <urn:mdciii:1603:16:68:3:80301>
@@ -3461,7 +3461,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80301" ;
     skos:prefLabel "Reyes"@spa-Latn ;
-    wdata:q7200235 "BO080301" ;
+    wdata:Q7200235 "BO080301" ;
 .
 
 <urn:mdciii:1603:16:68:3:80302>
@@ -3471,7 +3471,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80302" ;
     skos:prefLabel "San Borja"@spa-Latn ;
-    wdata:q7200235 "BO080302" ;
+    wdata:Q7200235 "BO080302" ;
 .
 
 <urn:mdciii:1603:16:68:3:80303>
@@ -3481,7 +3481,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80303" ;
     skos:prefLabel "Santa Rosa"@spa-Latn ;
-    wdata:q7200235 "BO080303" ;
+    wdata:Q7200235 "BO080303" ;
 .
 
 <urn:mdciii:1603:16:68:3:80304>
@@ -3491,7 +3491,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80304" ;
     skos:prefLabel "Puerto Menor de Rurrenabaque"@spa-Latn ;
-    wdata:q7200235 "BO080304" ;
+    wdata:Q7200235 "BO080304" ;
 .
 
 <urn:mdciii:1603:16:68:3:80401>
@@ -3501,7 +3501,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80401" ;
     skos:prefLabel "Santa Ana"@spa-Latn ;
-    wdata:q7200235 "BO080401" ;
+    wdata:Q7200235 "BO080401" ;
 .
 
 <urn:mdciii:1603:16:68:3:80402>
@@ -3511,7 +3511,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80402" ;
     skos:prefLabel "Exaltación"@spa-Latn ;
-    wdata:q7200235 "BO080402" ;
+    wdata:Q7200235 "BO080402" ;
 .
 
 <urn:mdciii:1603:16:68:3:80501>
@@ -3521,7 +3521,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80501" ;
     skos:prefLabel "San Ignacio"@spa-Latn ;
-    wdata:q7200235 "BO080501" ;
+    wdata:Q7200235 "BO080501" ;
 .
 
 <urn:mdciii:1603:16:68:3:80601>
@@ -3531,7 +3531,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80601" ;
     skos:prefLabel "Loreto"@spa-Latn ;
-    wdata:q7200235 "BO080601" ;
+    wdata:Q7200235 "BO080601" ;
 .
 
 <urn:mdciii:1603:16:68:3:80602>
@@ -3541,7 +3541,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80602" ;
     skos:prefLabel "San Andrés"@spa-Latn ;
-    wdata:q7200235 "BO080602" ;
+    wdata:Q7200235 "BO080602" ;
 .
 
 <urn:mdciii:1603:16:68:3:80701>
@@ -3551,7 +3551,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80701" ;
     skos:prefLabel "San Joaquín"@spa-Latn ;
-    wdata:q7200235 "BO080701" ;
+    wdata:Q7200235 "BO080701" ;
 .
 
 <urn:mdciii:1603:16:68:3:80702>
@@ -3561,7 +3561,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80702" ;
     skos:prefLabel "San Ramón"@spa-Latn ;
-    wdata:q7200235 "BO080702" ;
+    wdata:Q7200235 "BO080702" ;
 .
 
 <urn:mdciii:1603:16:68:3:80703>
@@ -3571,7 +3571,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80703" ;
     skos:prefLabel "Puerto Siles"@spa-Latn ;
-    wdata:q7200235 "BO080703" ;
+    wdata:Q7200235 "BO080703" ;
 .
 
 <urn:mdciii:1603:16:68:3:80801>
@@ -3581,7 +3581,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80801" ;
     skos:prefLabel "Magdalena"@spa-Latn ;
-    wdata:q7200235 "BO080801" ;
+    wdata:Q7200235 "BO080801" ;
 .
 
 <urn:mdciii:1603:16:68:3:80802>
@@ -3591,7 +3591,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80802" ;
     skos:prefLabel "Baures"@spa-Latn ;
-    wdata:q7200235 "BO080802" ;
+    wdata:Q7200235 "BO080802" ;
 .
 
 <urn:mdciii:1603:16:68:3:80803>
@@ -3601,7 +3601,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:80803" ;
     skos:prefLabel "Huacaraje"@spa-Latn ;
-    wdata:q7200235 "BO080803" ;
+    wdata:Q7200235 "BO080803" ;
 .
 
 <urn:mdciii:1603:16:68:3:90101>
@@ -3611,7 +3611,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:90101" ;
     skos:prefLabel "Cobija"@spa-Latn ;
-    wdata:q7200235 "BO090101" ;
+    wdata:Q7200235 "BO090101" ;
 .
 
 <urn:mdciii:1603:16:68:3:90102>
@@ -3621,7 +3621,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:90102" ;
     skos:prefLabel "Porvenir"@spa-Latn ;
-    wdata:q7200235 "BO090102" ;
+    wdata:Q7200235 "BO090102" ;
 .
 
 <urn:mdciii:1603:16:68:3:90103>
@@ -3631,7 +3631,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:90103" ;
     skos:prefLabel "Bolpebra"@spa-Latn ;
-    wdata:q7200235 "BO090103" ;
+    wdata:Q7200235 "BO090103" ;
 .
 
 <urn:mdciii:1603:16:68:3:90104>
@@ -3641,7 +3641,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:90104" ;
     skos:prefLabel "Bella Flor"@spa-Latn ;
-    wdata:q7200235 "BO090104" ;
+    wdata:Q7200235 "BO090104" ;
 .
 
 <urn:mdciii:1603:16:68:3:90201>
@@ -3651,7 +3651,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:90201" ;
     skos:prefLabel "Puerto Rico"@spa-Latn ;
-    wdata:q7200235 "BO090201" ;
+    wdata:Q7200235 "BO090201" ;
 .
 
 <urn:mdciii:1603:16:68:3:90202>
@@ -3661,7 +3661,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:90202" ;
     skos:prefLabel "San Pedro"@spa-Latn ;
-    wdata:q7200235 "BO090202" ;
+    wdata:Q7200235 "BO090202" ;
 .
 
 <urn:mdciii:1603:16:68:3:90203>
@@ -3671,7 +3671,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:90203" ;
     skos:prefLabel "Filadelfia"@spa-Latn ;
-    wdata:q7200235 "BO090203" ;
+    wdata:Q7200235 "BO090203" ;
 .
 
 <urn:mdciii:1603:16:68:3:90301>
@@ -3681,7 +3681,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:90301" ;
     skos:prefLabel "Puerto Gonzalo Moreno"@spa-Latn ;
-    wdata:q7200235 "BO090301" ;
+    wdata:Q7200235 "BO090301" ;
 .
 
 <urn:mdciii:1603:16:68:3:90302>
@@ -3691,7 +3691,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:90302" ;
     skos:prefLabel "San Lorenzo"@spa-Latn ;
-    wdata:q7200235 "BO090302" ;
+    wdata:Q7200235 "BO090302" ;
 .
 
 <urn:mdciii:1603:16:68:3:90303>
@@ -3701,7 +3701,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:90303" ;
     skos:prefLabel "Sena"@spa-Latn ;
-    wdata:q7200235 "BO090303" ;
+    wdata:Q7200235 "BO090303" ;
 .
 
 <urn:mdciii:1603:16:68:3:90401>
@@ -3711,7 +3711,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:90401" ;
     skos:prefLabel "Santa Rosa"@spa-Latn ;
-    wdata:q7200235 "BO090401" ;
+    wdata:Q7200235 "BO090401" ;
 .
 
 <urn:mdciii:1603:16:68:3:90402>
@@ -3721,7 +3721,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:90402" ;
     skos:prefLabel "Ingavi"@spa-Latn ;
-    wdata:q7200235 "BO090402" ;
+    wdata:Q7200235 "BO090402" ;
 .
 
 <urn:mdciii:1603:16:68:3:90501>
@@ -3731,7 +3731,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:90501" ;
     skos:prefLabel "Nueva Esperanza"@spa-Latn ;
-    wdata:q7200235 "BO090501" ;
+    wdata:Q7200235 "BO090501" ;
 .
 
 <urn:mdciii:1603:16:68:3:90502>
@@ -3741,7 +3741,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:90502" ;
     skos:prefLabel "Villa Nueva"@spa-Latn ;
-    wdata:q7200235 "BO090502" ;
+    wdata:Q7200235 "BO090502" ;
 .
 
 <urn:mdciii:1603:16:68:3:90503>
@@ -3751,6 +3751,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:68:3:90503" ;
     skos:prefLabel "Santos Mercado"@spa-Latn ;
-    wdata:q7200235 "BO090503" ;
+    wdata:Q7200235 "BO090503" ;
 .
 
